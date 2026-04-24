@@ -1,8 +1,7 @@
 /* CSS BY Cameron Santos */
 /* IMPORTED FONTS*/
-
 /* IMPORT "INTER" FROM GOOGLE FONTS"
-
+@import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Limelight&display=swap');
 /* CSS RESET */
 /* http://meyerweb.com/eric/tools/css/reset/
 v2.0 | 20110126
@@ -114,6 +113,7 @@ section {
 
 body {
     line-height: 1;
+    font-family: 'Inter', sans-serif;
 }
 
 ol,
