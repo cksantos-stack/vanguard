@@ -217,6 +217,12 @@ nav a {
     font-size: 20px;
 }
 
+nav a:hover {
+    background-color: var(--blue);
+    color: var(--black);
+    padding: 15px;
+}
+
 
 /* MIN-WIDTH OF THE PAGE SHOULD NOT GO BELOW 400PX */
 
