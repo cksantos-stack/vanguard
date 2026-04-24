@@ -1,6 +1,6 @@
-/* CSS BY YOUR NAME */
-
+/* CSS BY Cameron Santos */
 /* IMPORTED FONTS*/
+
 /* IMPORT "INTER" FROM GOOGLE FONTS"
 
 /* CSS RESET */
@@ -174,22 +174,35 @@ nav {
 header {
     display: flex;
     justify-content: space-between;
-    padding: 10px;
+    padding: 15px;
     align-items: center;
     position: relative;
+    background-color: var(--black);
 }
 
 nav ul {
     display: none;
-    background-color: var(--black); 
+    background-color: var(--black);
     padding: 10px;
     text-align: center;
 }
 
+.vlogo {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
 
 h1 {
-    padding-top: 8px;
-    font-weight: bold; 
+    font-weight: bold;
+    font-size: 1.5rem;
+    padding-bottom: 10px;
+    color: var(--blue);
+}
+
+label {
+    font-size: 2rem;
+    color: var(--white);
 }
 
 header img {
