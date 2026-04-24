@@ -154,6 +154,10 @@ nav h2 {
 }
 
 /* GLOBAL STYLES (MOBILE FIRST (SMALL) */
+#navMenu {
+    display: none;
+}
+
 nav ul {
     display: none;
 }
