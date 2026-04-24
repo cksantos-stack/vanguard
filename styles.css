@@ -210,11 +210,14 @@ header img {
 }
 
 nav a {
+    display: block;
+    padding: 15px;
     color: var(--blue);
     text-decoration: none;
     line-height: 1.4;
     font-weight: bold;
     font-size: 20px;
+    transition: 0.2s;
 }
 
 nav a:hover {
