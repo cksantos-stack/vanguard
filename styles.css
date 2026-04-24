@@ -181,6 +181,7 @@ header {
 
 nav ul {
     display: none;
+    text-decoration: none;
 }
 
 
