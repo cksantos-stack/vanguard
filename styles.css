@@ -149,6 +149,12 @@ table {
     --font: "Inter", sans-serif;
 }
 
+nav {
+    padding-right: 10px ;
+    text-align: right;
+    padding-bottom: 10px;
+}
+
 nav h2 {
     display: none;
 }
@@ -162,8 +168,7 @@ nav ul {
     display: none;
 }
 
-#menu
-
+#navMenu:
 /* MIN-WIDTH OF THE PAGE SHOULD NOT GO BELOW 400PX */
 
 /* ADD A DIV WITH THE CLASS OF CONTAINER TO EVERY CONTENT CONTAINER THIS IS ALLOW THE BASE ELEMENTS TO BE 100% WIDTH, BUT CONSTRAIN THE ACTUAL CONTENT TO 90% */
