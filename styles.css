@@ -291,15 +291,18 @@ nav a:hover {
     padding: 15px;
     border-radius: 5px;
     font-weight: bold;
+    transition: transform 0.2s ease, background-color 0.2s ease;
 
 }
 
 #innovation a:hover {
     transform: scale(1.05);
+    background-color: var(--red);
 }
 
 #innovation a:active {
     background-color: var(--red);
+    transform: scale(1.05);
 }
 
 /* ADD FLOATING SVG LOGO BEFORE THE H1 */
