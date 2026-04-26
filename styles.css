@@ -265,8 +265,12 @@ nav a:hover {
     text-align: center;
     font-size: 1.5rem;
     color: var(--white);
+    padding-bottom: 20px;
 }
 
+#innovation p {
+    color: var(--white);
+}
 
 /* ADD FLOATING SVG LOGO BEFORE THE H1 */
     {
