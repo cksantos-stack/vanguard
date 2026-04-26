@@ -191,11 +191,16 @@ nav ul {
     display: flex;
     align-items: center;
     gap: 0.5rem;
-    animation: moving 2s alternate;
+    animation: moving 2s ease-in-out infinite alternate;
 }
 
-@keyframes moving{
-    
+@keyframes moving {
+    from {
+        top: 5px;
+    }
+    to{
+        
+    }
 }
 
 h1 {
