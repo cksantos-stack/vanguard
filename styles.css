@@ -259,11 +259,12 @@ nav a:hover {
     padding: 1rem;
     overflow: hidden;
 
+
 }
 
 #innovation .container {
     backdrop-filter: blur(20px);
-    padding: 30px;
+    padding: 20px;
 }
 
 #innovation h2 {
@@ -291,6 +292,14 @@ nav a:hover {
     border-radius: 5px;
     font-weight: bold;
 
+}
+
+#innovation a:hover {
+    transform: scale(1.05);
+}
+
+#innovation a:active {
+    background-color: var(--red);
 }
 
 /* ADD FLOATING SVG LOGO BEFORE THE H1 */
