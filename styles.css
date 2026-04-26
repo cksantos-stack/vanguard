@@ -284,6 +284,7 @@ nav a:hover {
 }
 
 #innovation a {
+    display: block;
     text-decoration: none;
     color: var(--white);
     font-size: 0.9rem;
