@@ -191,11 +191,12 @@ nav ul {
     display: flex;
     align-items: center;
     gap: 0.5rem;
+    animation: moving 2s alternate;
 }
 
-
-
-
+@keyframes moving{
+    
+}
 
 h1 {
     font-weight: bold;
