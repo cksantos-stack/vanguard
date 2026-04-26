@@ -258,8 +258,6 @@ nav a:hover {
     text-align: center;
     padding: 1rem;
     overflow: hidden;
-
-
 }
 
 #innovation .container {
@@ -293,7 +291,6 @@ nav a:hover {
     border-radius: 5px;
     font-weight: bold;
     transition: transform 0.2s ease, background-color 0.2s ease;
-
 }
 
 #innovation a:hover {
@@ -314,7 +311,6 @@ nav a:hover {
     width: 3.75rem;
     height: 3.75rem;
     background: url('images/vanguard-logo.svg') no-repeat center/contain;
-
 }
 
 /* THIS ONE IS DONE FOR YOU */
