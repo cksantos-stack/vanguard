@@ -274,7 +274,7 @@ nav a:hover {
     line-height: 1.2;
     text-align: center;
     font-size: 0.8rem;
-    padding-bottom: 20px;
+    padding-bottom: 30px;
 }
 
 #innovation a {
@@ -283,6 +283,8 @@ nav a:hover {
     font-size: 0.9rem;
     background-color: var(--blue);
     padding: 15px;
+    border-radius: 5px;
+    font-weight: bold;
 }
 
 /* ADD FLOATING SVG LOGO BEFORE THE H1 */
