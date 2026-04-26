@@ -196,7 +196,7 @@ nav ul {
 
 @keyframes moving {
     from {
-        transform: translate(5px, 0px);
+        transform: translate(0px, 0px);
     }
 
     to {
