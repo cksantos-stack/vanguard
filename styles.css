@@ -198,8 +198,9 @@ nav ul {
     from {
         top: 5px;
     }
-    to{
-        
+
+    to {
+        transform: translate(0px, 5px);
     }
 }
 
