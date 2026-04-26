@@ -211,7 +211,6 @@ nav ul {
 h1 {
     font-weight: bold;
     font-size: 1.5rem;
-    padding-bottom: 30px;
     color: var(--blue);
 }
 
@@ -221,7 +220,7 @@ label {
 }
 
 header img {
-    width: 3rem;
+    width: 2.5rem;
 }
 
 nav a {
