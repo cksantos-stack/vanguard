@@ -258,6 +258,7 @@ nav a:hover {
     text-align: center;
     padding: 1rem;
     overflow: hidden;
+    
 
 }
 
@@ -285,6 +286,7 @@ nav a:hover {
     padding: 15px;
     border-radius: 5px;
     font-weight: bold;
+    
 }
 
 /* ADD FLOATING SVG LOGO BEFORE THE H1 */
