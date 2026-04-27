@@ -343,10 +343,11 @@ nav a:hover {
 }
 
 #about h2,
-#services h2, 
+#services h2,
 #services h3 {
-    
+    animation: dropdown 2s ease-out forwards;
 }
+
 
 /* ADD FLOATING SVG LOGO BEFORE THE H1 */
 header h1 {
