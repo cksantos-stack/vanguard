@@ -350,11 +350,19 @@ nav a:hover {
     padding: 25px;
     margin-bottom: 0.5rem;
     border-radius: 8px;
+
+    display: flex;
+    flex-direction: column;
 }
 
 .offer h3 {
     padding-bottom: 10px;
     font-weight: bold;
+}
+
+.offer p {
+    font-size: 0.8rem;
+    text-align: left;
 }
 
 /* ADD FLOATING SVG LOGO BEFORE THE H1 */
