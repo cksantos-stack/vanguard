@@ -191,7 +191,7 @@ h1 {
     font-weight: bold;
     font-size: 1.5rem;
     color: var(--blue);
-    tex
+
 }
 
 label {
@@ -345,6 +345,7 @@ nav a:hover {
 /* ADD FLOATING SVG LOGO BEFORE THE H1 */
 header h1 {
     position: relative;
+    padding-left: 3rem;
 }
 
 header h1::before {
@@ -355,7 +356,7 @@ header h1::before {
     height: 3.75rem;
     background: url('images/vanguard-logo.svg') no-repeat center/contain;
     animation: moving 2s ease-in-out infinite alternate;
-
+    
 }
 
 @keyframes moving {
