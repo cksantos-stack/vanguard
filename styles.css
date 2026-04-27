@@ -340,6 +340,21 @@ nav a:hover {
 
 #services h2 {
     font-size: 1.5rem;
+    font-weight: bold;
+    padding-bottom: 25px;
+}
+
+.offer {
+    background-color: var(--blue);
+    color: var(--white);
+    padding: 25px;
+    margin-bottom: 0.5rem;
+    border-radius: 8px;
+}
+
+.offer h3 {
+    padding-bottom: 10px;
+    font-weight: bold;
 }
 
 /* ADD FLOATING SVG LOGO BEFORE THE H1 */
