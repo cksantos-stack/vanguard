@@ -251,7 +251,7 @@ nav a:hover {
 
 /* ADD TO "INNOVATION & INVESTMENT SECTION (Photo by Kevin Matos on Unsplash) */
 #innovation {
-    background: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), linear-gradient(to bottom, #007BFF 0.5%, transparent 1.7%), url('images/vanguard-hero.jpg') no-repeat center center/cover;
+    background: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), linear-gradient(to bottom, #007BFF 0.5%, transparent 1.9%), url('images/vanguard-hero.jpg') no-repeat center center/cover;
     height: 80vh;
     display: grid;
     place-items: center;
@@ -288,12 +288,15 @@ nav a:hover {
 
 @keyframes dropdown {
     from {
-        transform: translatey(-20px);
+        transform: translateY(-20px);
+        opacity: 0;
     }
 
-    to {}
+    to {
+        transform: translateY(0px);
+        opacity: 1;
+    }
 
-    |
 }
 
 
