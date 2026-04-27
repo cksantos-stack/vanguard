@@ -287,7 +287,9 @@ nav a:hover {
 }
 
 @keyframes dropdown {
-    from {transform: translate();}
+    from {
+        transform: translatey(-20px);
+    }
 
     to {}
 
