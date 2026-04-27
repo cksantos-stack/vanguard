@@ -342,6 +342,10 @@ nav a:hover {
 }
 
 /* ADD FLOATING SVG LOGO BEFORE THE H1 */
+#innovation h1 {
+    position: relative;
+}
+
     {
     content: "";
 
