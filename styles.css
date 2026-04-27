@@ -315,13 +315,13 @@ nav a:hover {
 }
 
 #innovation a:hover {
-    transform: scale(1.05) ;
+    transform: translateY(0) scale(1.05);
     background-color: var(--red);
 }
 
 #innovation a:active {
+    transform: translateY(0) scale(0.98);
     background-color: var(--red);
-    transform: scale(0.98) ;
 }
 
 /* ADD FLOATING SVG LOGO BEFORE THE H1 */
