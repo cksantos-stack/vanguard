@@ -283,10 +283,16 @@ nav a:hover {
 
 #innovation h2,
 #innovation a {
-
-    animation: 2s ease-in normal;
+    animation: dropdown 2s ease-in normal;
 }
 
+@keyframes dropdown {
+    from {}
+
+    to {}
+
+    |
+}
 
 
 
