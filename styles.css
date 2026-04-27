@@ -281,8 +281,12 @@ nav a:hover {
     padding-bottom: 30px;
 }
 
-#innovation h2 #innovation a 
-{}
+#innovation h2,
+#innovation a {
+
+    animation: 2s ease-in normal;
+}
+
 
 
 
