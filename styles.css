@@ -330,6 +330,11 @@ nav a:hover {
     padding: 25px;
     margin-bottom: 0.5rem;
     border-radius: 8px;
+    transition: transform 0.3s ease;
+}
+
+.offer:hover {
+    transform: translateY(-5px);
 }
 
 .offer h3 {
@@ -376,6 +381,8 @@ header h1::before {
         translate: 0px 5px;
     }
 }
+
+
 
 /* THIS ONE IS DONE FOR YOU */
 #bar-chart {
