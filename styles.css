@@ -325,26 +325,22 @@ nav a:hover {
 }
 
 #about h2 {
+    font-size: 1.5rem;
     padding-top: 20px;
     text-align: center;
-    padding-bottom: 20px;
     font-weight: bold;
-    font-size: 1.5rem;
+    padding-bottom: 20px;
 }
 
 #about p {
-    line-height: 1.2;
     font-size: 0.8rem;
-    padding-bottom: 20px;
+    padding-bottom: 25px;
+    line-height: 1.2;
 }
 
 #services h2 {
-    font-weight: bold;
     font-size: 1.5rem;
-    text-align: left;
-    padding-bottom: 25px;
 }
-
 
 /* ADD FLOATING SVG LOGO BEFORE THE H1 */
     {
