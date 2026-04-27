@@ -353,6 +353,7 @@ nav a:hover {
 
     display: flex;
     flex-direction: column;
+    justify-content: flex-end;
 }
 
 .offer h3 {
