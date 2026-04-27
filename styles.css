@@ -219,7 +219,6 @@ nav a:hover {
     color: var(--black);
 }
 
-
 /* MIN-WIDTH OF THE PAGE SHOULD NOT GO BELOW 400PX */
 
 /* ADD A DIV WITH THE CLASS OF CONTAINER TO EVERY CONTENT CONTAINER THIS IS ALLOW THE BASE ELEMENTS TO BE 100% WIDTH, BUT CONSTRAIN THE ACTUAL CONTENT TO 90% */
@@ -353,7 +352,6 @@ nav a:hover {
     animation: dropdown 2s ease-out forwards;
 }
 
-
 /* ADD FLOATING SVG LOGO BEFORE THE H1 */
 header h1 {
     position: relative;
@@ -381,6 +379,22 @@ header h1::before {
         translate: 0px 5px;
     }
 }
+
+#results {
+    margin-top: 40px;
+    padding: 10px;
+    background-color: var(--blue);
+}
+
+#results h2 {
+    text-align: left;
+    font-size: 1.5rem;
+    color: var(--white);
+    font-weight: bold;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
 
 
 
