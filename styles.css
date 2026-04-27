@@ -346,9 +346,9 @@ nav a:hover {
     position: relative;
 }
 
-    {
+#innovation h1::before {
     content: "";
-
+    position: absolute;
     left: -.5rem;
     width: 3.75rem;
     height: 3.75rem;
@@ -359,11 +359,11 @@ nav a:hover {
 
 @keyframes moving {
     from {
-        transform: translate(0px, 0px);
+         translate: 0px, 0px;
     }
 
     to {
-        transform: translate(0px, 5px);
+         translate: 0px, 5px;
     }
 }
 
