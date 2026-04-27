@@ -338,6 +338,12 @@ nav a:hover {
     padding-bottom: 20px;
 }
 
+#services h2 {
+    font-weight: bold;
+    font-size: 1.5rem;
+    text-align: left;
+    padding-bottom: 25px;
+}
 
 
 /* ADD FLOATING SVG LOGO BEFORE THE H1 */
