@@ -350,10 +350,6 @@ nav a:hover {
     padding: 25px;
     margin-bottom: 0.5rem;
     border-radius: 8px;
-
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-end;
 }
 
 .offer h3 {
