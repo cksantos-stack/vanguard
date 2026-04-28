@@ -384,7 +384,7 @@ header h1::before {
 
 #results {
     margin-top: 40px;
-    padding: 10px;
+    padding: 15px;
     background-color: var(--blue);
 }
 
@@ -425,7 +425,7 @@ td {
     text-align: center;
 }
 
-tbody tr:nth-child(odd) {
+tbody tr:nth-child(even) {
     background-color: var(--charcoal);
 }
 
