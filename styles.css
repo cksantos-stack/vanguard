@@ -413,9 +413,21 @@ table {
     border: 1px solid var(--charcoal);
 }
 
-tr, th, td {
-    padding: 10px;
+th {
+    font-weight: bold;
+}
+
+tr,
+th,
+td {
+    padding: 13px;
     border: 1px solid var(--charcoal);
+    font-size: 0.8rem;
+    text-align: center;
+}
+
+td:nth-child(1) {
+    background-color: var(--charcoal);
 }
 
 
