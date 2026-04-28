@@ -395,7 +395,7 @@ header h1::before {
     color: var(--white);
     font-weight: bold;
     padding-top: 10px;
-    padding-bottom: 10px;
+    padding-bottom: 15px;
     padding-left: 13px;
 }
 
@@ -417,7 +417,6 @@ th {
     font-weight: bold;
 }
 
-tr,
 th,
 td {
     padding: 13px;
