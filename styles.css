@@ -419,13 +419,13 @@ th {
 
 th,
 td {
-    padding: 13px;
+    padding: 15px;
     border: 1px solid var(--charcoal);
     font-size: 0.8rem;
     text-align: center;
 }
 
-td:nth-child(1) {
+tbody tr:nth-child(odd) {
     background-color: var(--charcoal);
 }
 
