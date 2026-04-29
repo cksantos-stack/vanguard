@@ -566,13 +566,13 @@ footer {
     line-height: 1.3;
 }
 
-footer p a:nth-child(odd) {
-    color: var(--blue);
-}
-
-footer a:last-child {
+footer a {
     color: var(--white);
     text-decoration: none;
+}
+
+footer p a:first-of-type {
+    color: var(--blue);
 }
 
 /* MEDIA QUERIES (MEDIUM) */
