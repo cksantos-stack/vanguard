@@ -516,7 +516,7 @@ tbody tr:nth-child(even) {
     text-align: left;
 }
 
-label {
+#contact label {
     font-size: 0.8rem;
     display: block;
     padding-top: 8px;
