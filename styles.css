@@ -542,6 +542,17 @@ input[type=submit] {
     font-weight: bold;
     width: 100%;
     border: none;
+    transition: transform 0.2s ease, background-color 0.2s ease;
+}
+
+input[type=submit]:hover {
+    transform: translateY(0) scale(1.05);
+    background-color: var(--red);
+}
+
+input[type=submit]:active {
+    transform: translateY(0) scale(0.98);
+    background-color: var(--red);
 }
 
 /* MEDIA QUERIES (MEDIUM) */
