@@ -546,12 +546,12 @@ input[type=submit] {
 }
 
 input[type=submit]:hover {
-    transform: translateY(0) scale(1.05);
+    translate: scale(1.05);
     background-color: var(--red);
 }
 
 input[type=submit]:active {
-    transform: translateY(0) scale(0.98);
+    translate: scale(0.98);
     background-color: var(--red);
 }
 
