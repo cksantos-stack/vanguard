@@ -388,13 +388,22 @@ header h1::before {
     background-color: var(--blue);
 }
 
-#results h2,
-#results h3 {
+#results h2 {
     text-align: left;
     font-size: 1.5rem;
     color: var(--white);
     font-weight: bold;
     padding-top: 10px;
+    padding-bottom: 15px;
+    padding-left: 13px;
+}
+
+#results h3 {
+    text-align: left;
+    font-size: 1.5rem;
+    color: var(--white);
+    font-weight: bold;
+    padding-top: 30px;
     padding-bottom: 15px;
     padding-left: 13px;
 }
@@ -429,6 +438,7 @@ td {
 tbody tr:nth-child(even) {
     background-color: var(--charcoal);
 }
+
 
 
 /* THIS ONE IS DONE FOR YOU */
