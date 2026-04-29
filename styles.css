@@ -531,8 +531,20 @@ textarea {
     padding: 5px;
 }
 
-/* MEDIA QUERIES (MEDIUM) */
+input[type=submit] {
+    margin-top: 15px;
+    display: block;
+    color: var(--white);
+    font-size: 0.9rem;
+    background-color: var(--blue);
+    padding: 8px;
+    border-radius: 6px;
+    font-weight: bold;
+    width: 100%;
+    border: none;
+}
 
+/* MEDIA QUERIES (MEDIUM) */
 #results {
     grid-template-columns: 1fr 1fr;
 }
