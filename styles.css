@@ -507,6 +507,17 @@ tbody tr:nth-child(even) {
     padding-left: 13px;
 }
 
+#contact p {
+    color: var(--white);
+    font-size: 0.8rem;
+    line-height: 1.3;
+    padding-bottom: 15px;
+}
+
+label {
+    font-size: 0.8rem;
+}
+
 /* MEDIA QUERIES (MEDIUM) */
 
 #results {
