@@ -114,6 +114,7 @@ section {
 body {
     line-height: 1;
     font-family: 'Inter', sans-serif;
+    margin: 0;
 }
 
 ol,
@@ -546,13 +547,19 @@ input[type=submit] {
 }
 
 input[type=submit]:hover {
-    translate: scale(1.05);
+    transform: translateY(0) scale(1.05);
     background-color: var(--red);
 }
 
 input[type=submit]:active {
-    translate: scale(0.98);
+    transform: translateY(0) scale(0.98);
     background-color: var(--red);
+}
+
+footer {
+    margin-top: 10px;
+    background-color: var(--black);
+    color: var(--white);
 }
 
 /* MEDIA QUERIES (MEDIUM) */
