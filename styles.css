@@ -527,6 +527,8 @@ input[type=email],
 textarea {
     width: 100%;
     box-sizing: border-box;
+    border: 1px solid var(--blue);
+    padding: 5px;
 }
 
 /* MEDIA QUERIES (MEDIUM) */
