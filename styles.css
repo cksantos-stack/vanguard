@@ -350,7 +350,8 @@ nav a:hover {
 #services h2,
 #services h3,
 #results h2,
-#results h3 {
+#results h3,
+#contact h2 {
     animation: dropdown 2s ease-out forwards;
 }
 
@@ -492,6 +493,19 @@ tbody tr:nth-child(even) {
     animation: stepUp 1s ease-in-out forwards;
 }
 
+#contact {
+    background-color: var(--black);
+}
+
+#contact h2 {
+    text-align: left;
+    font-size: 1.5rem;
+    color: var(--white);
+    font-weight: bold;
+    padding-top: 25px;
+    padding-bottom: 15px;
+    padding-left: 13px;
+}
 
 /* MEDIA QUERIES (MEDIUM) */
 
