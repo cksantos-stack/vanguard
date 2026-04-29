@@ -407,10 +407,11 @@ header h1::before {
 }
 
 table {
-    margin-top: 10px;
+    margin: 10px 0 auto;
     color: var(--white);
     background-color: var(--black);
     border: 1px solid var(--charcoal);
+    width: 100%;
 }
 
 th {
