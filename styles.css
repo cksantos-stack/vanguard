@@ -566,14 +566,8 @@ footer {
     line-height: 1.3;
 }
 
-footer a {
-    color: var(--white);
-    text-decoration: none;
-}
 
-footer p a:first-of-type {
-    color: var(--blue);
-}
+
 
 /* MEDIA QUERIES (MEDIUM) */
 #results {
