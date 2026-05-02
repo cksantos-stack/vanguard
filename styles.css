@@ -601,10 +601,10 @@ footer a {
         display: flex;
         flex-direction: row;
     }
-    
-    .offer{
+
+    .services {
         display: grid;
-        grid-template-columns: 1fr 1fr;
+        grid-template-columns: 1fr 1fr 1fr;
     }
 }
 
