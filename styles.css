@@ -575,9 +575,9 @@ footer a {
 @media (min-width:800px) {
 
     #results {
-       
+
         grid-template-columns: 1fr 1fr;
-    
+
     }
 
     .results-container {
@@ -603,6 +603,13 @@ footer a {
         flex-direction: row;
 
     }
+
+    #services .container {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 10px;
+    }
+    
 
 }
 
