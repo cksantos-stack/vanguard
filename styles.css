@@ -268,12 +268,12 @@ nav a:hover {
 
 @keyframes dropdown {
     from {
-        translate: 0 -20px;
+        transform: translate(0, -20px);
         opacity: 0;
     }
 
     to {
-        translate: 0 0;
+        transform: translate(0, 0);
         opacity: 1;
     }
 
