@@ -575,6 +575,7 @@ footer a {
 @media (min-width:800px) {
 
     #results {
+        display: grid;
         grid-template-columns: 1fr 1fr;
     }
 
@@ -599,6 +600,11 @@ footer a {
     nav ul {
         display: flex;
         flex-direction: row;
+    }
+    
+    .offer{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
     }
 }
 
