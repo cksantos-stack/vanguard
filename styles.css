@@ -258,7 +258,7 @@ nav a:hover {
     line-height: 1.2;
     text-align: center;
     font-size: 0.8rem;
-    padding-bottom: 15px;
+    padding-bottom: 17px;
 }
 
 #innovation h2,
@@ -575,7 +575,6 @@ footer a {
 @media (min-width:800px) {
 
     #results {
-        display: grid;
         grid-template-columns: 1fr 1fr;
     }
 
@@ -600,12 +599,9 @@ footer a {
     nav ul {
         display: flex;
         flex-direction: row;
+
     }
 
-    .services {
-        display: grid;
-        grid-template-columns: 1fr 1fr 1fr;
-    }
 }
 
 
