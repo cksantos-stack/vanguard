@@ -575,7 +575,6 @@ footer a {
 @media (min-width:800px) {
 
     #results {
-        display: grid;
         grid-template-columns: 1fr 1fr;
     }
 
