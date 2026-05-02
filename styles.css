@@ -572,6 +572,9 @@ footer a {
 
 
 /* MEDIA QUERIES (MEDIUM) */
+@media  {
+    
+}
 #results {
     grid-template-columns: 1fr 1fr;
 }
@@ -588,6 +591,7 @@ footer a {
 .bar-chart {
     width: 50%;
 }
+
 
 
 /* MEDIA QUERIES (LARGE) */
