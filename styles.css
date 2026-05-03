@@ -683,5 +683,7 @@ footer a {
     #forms {
         display: grid;
         grid-template-columns: 1fr 1fr;
+        grid-area: 1rem;
+   
     }
 }
