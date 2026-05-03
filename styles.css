@@ -640,6 +640,10 @@ footer a {
     header h1::before {
         top: -2px;
     }
+
+    #innovation p{
+        
+    }
 }
 
 /* MEDIA QUERIES (LARGE) */
