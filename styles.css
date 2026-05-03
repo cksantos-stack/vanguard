@@ -671,6 +671,8 @@ footer a {
 
     #contact h2 {
         margin-left: 12px;
+        grid-column: 1/-1;
     }
+
 
 }
