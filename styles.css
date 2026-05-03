@@ -693,8 +693,6 @@ footer a {
 
     input[type=submit] {
        width: fit-content;
-       
-       padding-bottom: 2px;
-
+      
     }
 }
