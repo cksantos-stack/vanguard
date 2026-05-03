@@ -684,6 +684,10 @@ footer a {
         display: grid;
         grid-template-columns: 1fr 1fr;
         grid-area: 1rem;
-   
+
+    }
+
+    #emailaddress {
+        grid-column: 2;
     }
 }
