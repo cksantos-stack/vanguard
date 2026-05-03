@@ -691,8 +691,7 @@ footer a {
         display: grid;
     }
 
-    input[type=submit] {
-       width: fit-content;
-      
+    .myclass {
+        padding: 2px;
     }
 }
