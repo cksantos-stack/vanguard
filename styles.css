@@ -441,8 +441,6 @@ tbody tr:nth-child(even) {
     background-color: var(--charcoal);
 }
 
-
-
 /* THIS ONE IS DONE FOR YOU */
 #bar-chart {
     display: grid;
@@ -570,7 +568,6 @@ footer a {
     color: var(--blue);
 }
 
-
 /* MEDIA QUERIES (MEDIUM) */
 @media (min-width:800px) {
     #about h2 {
@@ -641,8 +638,8 @@ footer a {
         top: -2px;
     }
 
-    #innovation p{
-        
+    #contact h2 {
+        margin-left: 12px;
     }
 }
 
@@ -666,4 +663,14 @@ footer a {
     header h1::before {
         top: -2px;
     }
+
+    input[type=text],
+    input[type=email] {
+        padding: 15px;
+    }
+
+    #contact h2 {
+        margin-left: 12px;
+    }
+
 }
