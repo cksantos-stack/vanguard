@@ -632,8 +632,8 @@ footer a {
         margin-top: 50px;
     }
 
-    svg {
-        margin-top: 10px;
+    header h1::before {
+        top: -2px;
     }
 }
 
