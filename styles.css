@@ -692,6 +692,9 @@ footer a {
     }
 
     input[type=submit] {
-        padding: 10px;
+       width: fit-content;
+       
+       padding-bottom: 2px;
+
     }
 }
