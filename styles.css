@@ -669,12 +669,18 @@ footer a {
         padding: 15px;
     }
 
-    #contact h2 {
+    #contact h2,
+    #contact p {
         margin-left: 12px;
         grid-column: 1/-1;
     }
 
-    #contact .container{
+    #contact .container {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+    }
+
+    #forms {
         display: grid;
         grid-template-columns: 1fr 1fr;
     }
