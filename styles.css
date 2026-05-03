@@ -692,6 +692,6 @@ footer a {
     }
 
     input[type=submit] {
-        
+        padding: 10px;
     }
 }
