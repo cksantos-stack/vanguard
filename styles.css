@@ -576,6 +576,7 @@ footer a {
     #results {
         display: grid;
         grid-template-columns: 1fr;
+        gap: 1rem;
     }
 
     .results-container {
@@ -585,11 +586,11 @@ footer a {
     }
 
     .results-table {
-        width: 50%;
+        width: 45%;
     }
 
     .bar-chart {
-        width: 50%;
+        width: 45%;
     }
 
     nav label {
