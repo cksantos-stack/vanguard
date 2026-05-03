@@ -573,6 +573,11 @@ footer a {
 
 /* MEDIA QUERIES (MEDIUM) */
 @media (min-width:800px) {
+    #about h2 {
+        text-align: left;
+        margin-left: 12px;
+    }
+
     #results {
         display: grid;
         grid-template-columns: 1fr;
@@ -641,6 +646,7 @@ footer a {
 @media (min-width: 1024px) {
     #about h2 {
         text-align: left;
+        margin-left: 12px;
     }
 
     #services .container {
