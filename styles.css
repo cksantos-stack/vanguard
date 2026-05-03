@@ -691,5 +691,7 @@ footer a {
         display: grid;
     }
 
-    
-}   
+    input[type=submit] {
+        
+    }
+}
