@@ -680,10 +680,10 @@ footer a {
         grid-template-columns: 1fr 1fr;
     }
 
-    #forms {
+    #form {
         display: grid;
         grid-template-columns: 1fr 1fr;
-        grid-area: 1rem;
+        gap: 1rem;
 
     }
 
