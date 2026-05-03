@@ -592,7 +592,7 @@ footer a {
 
     .bar-chart {
         width: 50%;
-        
+        margin-top: -50px;
     }
 
     nav label {
