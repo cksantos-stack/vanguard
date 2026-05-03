@@ -594,9 +594,15 @@ footer a {
         width: 50%;
     }
 
-    #bar-chart {
-        margin-top: -30px;
+    .bar-chart h3 {
+        margin-top: 3px;
     }
+
+    #bar-chart {
+        margin-top: -15px;
+    }
+
+
 
     nav label {
         display: none;
@@ -623,9 +629,10 @@ footer a {
     }
 
     table {
-        margin-top: 30px;
+        margin-top: 50px;
     }
 
 }
 
 /* MEDIA QUERIES (LARGE) */
+@media (min-width: 1024px) {}
