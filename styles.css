@@ -677,7 +677,7 @@ footer a {
 
     #contact .container {
         display: grid;
-        grid-template-columns: 1fr 1fr;
+        grid-template-columns: 1fr;
     }
 
     #contact form {
@@ -687,5 +687,9 @@ footer a {
 
     }
 
+    .namesection{
+        display: grid;
+        
+    }
  
 }
