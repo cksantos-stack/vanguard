@@ -592,7 +592,10 @@ footer a {
 
     .bar-chart {
         width: 50%;
-        margin-top: -50px;
+    }
+
+    #bar-chart {
+        margin-top: -70px;
     }
 
     nav label {
@@ -619,9 +622,10 @@ footer a {
         line-height: 1.3;
     }
 
-    table{
+    table {
         margin-top: 20px;
     }
+
 }
 
 /* MEDIA QUERIES (LARGE) */
