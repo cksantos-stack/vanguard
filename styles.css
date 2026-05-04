@@ -158,8 +158,6 @@ nav h2 {
 nav {
 
     text-align: right;
-
-
 }
 
 #navMenu {
@@ -221,6 +219,9 @@ nav a:hover {
 }
 
 /* MIN-WIDTH OF THE PAGE SHOULD NOT GO BELOW 400PX */
+html{
+    min
+}
 
 /* ADD A DIV WITH THE CLASS OF CONTAINER TO EVERY CONTENT CONTAINER THIS IS ALLOW THE BASE ELEMENTS TO BE 100% WIDTH, BUT CONSTRAIN THE ACTUAL CONTENT TO 90% */
 .container {
