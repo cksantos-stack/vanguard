@@ -353,7 +353,7 @@ nav a:hover {
 #results h2,
 #results h3,
 #contact h2 {
-    animation: dropdown 2s ease-out forwards;
+    animation: dropdown 2s ease-out;
 }
 
 /* ADD FLOATING SVG LOGO BEFORE THE H1 */
