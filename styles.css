@@ -669,6 +669,10 @@ footer a {
         padding: 15px;
     }
 
+    textarea {
+        padding: 16px;
+    }
+
     #contact h2,
     #contact p {
         margin-left: 12px;
