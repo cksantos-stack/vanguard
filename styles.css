@@ -263,7 +263,7 @@ nav a:hover {
 
 #innovation h2,
 #innovation a {
-    animation: dropdown 2s ease-out forwards;
+    animation: dropdown 2s ease-out;
 }
 
 @keyframes dropdown {
